@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit
 tensorflow
 opencv-python-headless
@@ -6,12 +5,4 @@ numpy
 fpdf
 Pillow
 scikit-learn
-=======
-streamlit
-tensorflow
-opencv-python-headless
-numpy
-fpdf
-Pillow
-scikit-learn
->>>>>>> 45ea4124aa2341aed2af712cf766bcafb4f3758e
+
