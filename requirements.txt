@@ -1,11 +1,9 @@
 streamlit==1.45.1
-tensorflow-cpu==2.13.0
+tensorflow-cpu==2.12.0
 scikit-learn==1.3.0
 opencv-python-headless
 Pillow
-<<<<<<< HEAD
-numpy
-=======
 numpy
 
->>>>>>> 1d3f62cacd4a48295994b8c4102dba13d19f9075
+
+
